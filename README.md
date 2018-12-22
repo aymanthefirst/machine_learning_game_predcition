@@ -10,7 +10,7 @@ I explained the proecess of what is happenig in comments along the way
 - Jupyter
 - Chrome
 
-#Instructions
+# Instructions
 In Jupyter, run 'Board Game Review Prediction.ipynb'
 
 
