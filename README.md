@@ -13,7 +13,7 @@ I explained the proecess of what is happenig in comments along the way
 # Instructions
 In Jupyter, run 'Board Game Review Prediction.ipynb'
 
-
+# Preview
 ![Alt text](/images/demo1.PNG?raw=true "Title")
 ![Alt text](/images/demo2.PNG?raw=true "Title")
 
